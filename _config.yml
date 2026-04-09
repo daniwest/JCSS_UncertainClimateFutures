@@ -9,7 +9,7 @@ plugins:
   - jekyll-seo-tag
 
 # Site Information
-title: "Group Name"
+title: "JCSS Working Group on Uncertain Climate Futures"
 description: "A scientific group website."
 url: "https://daniwest.github.io" # Change to your actual URL
 baseurl: "/JCSS_UncertainClimateFutures" # Keep this empty if your repo is [username].github.io
