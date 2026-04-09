@@ -4,7 +4,7 @@ author_profile: true
 title: "Working Group on Uncertain Climate Futures"
 tagline: "Advancing the frontiers of [Subject] through [Methodology]."
 header:
-  overlay_image: "JCSS_UncertainClimateFutures/images/MountainDS.jpg"
+  overlay_image: https://c.pxhere.com/photos/ec/d8/matterhorn_mountain_alps_switzerland_high_peak_top_view-846922.jpg!d
   overlay_filter: 0.5 # Makes text readable over an image
   caption: "Photo credit: Daniel Straub"
   actions:
@@ -20,7 +20,7 @@ excerpt: "We are a multidisciplinary team based at [University], focusing on [To
 ### Climate change
 How to handle climate change effects in the management of risk and safety of structures and infrastructure? 
 How to sustainably deal with uncertainty in hazards and extremes in the built environment affected by climate change?
-
+/JCSS_UncertainClimateFutures/images/MountainDS.jpg
 The Working Group on Uncertain Climate Futures, under the auspieces of the Joint Committee on Structural Safety (JCSS) prepares the scientific background ...
 ### Latest News
 * **April 2026:** Dr. Smith awarded the [Grant Name]!
