@@ -4,7 +4,7 @@ author_profile: true
 title: "Working Group on Uncertain Climate Futures"
 tagline: "Advancing the frontiers of [Subject] through [Methodology]."
 header:
-  overlay_image: /images/lab-header.jpg
+  overlay_image: /images/MountainDS.jpg.jpg
   overlay_filter: 0.5 # Makes text readable over an image
   caption: "Photo credit: Daniel Straub"
   actions:
