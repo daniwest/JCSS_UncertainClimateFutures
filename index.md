@@ -8,10 +8,12 @@ header:
   overlay_filter: 0.5 # Makes text readable over an image
   caption: "Photo credit: Daniel Straub"
   actions:
-    - label: "Our Research"
-      url: "/research/"
-    - label: "Recent Publications"
-      url: "/publications/"
+    - label: "Motivation and case studies"
+      url: "/cases/"
+    - label: "Climate loads"
+      url: "/loads/"
+    - label: "Methods & tools"
+      url: "/methods/"
 excerpt: "We are a multidisciplinary team based at [University], focusing on [Topic A], [Topic B], and [Topic C]."
 ---
 
