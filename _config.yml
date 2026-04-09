@@ -1,1 +1,15 @@
-remote_theme: pages-themes/minimal@v0.2.0
+# Theme Settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # Options: "air", "aqua", "contrast", "dark", "dirt", "neon", "sunrise"
+
+# Plugins
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Site Information
+title: "Group Name"
+description: "A scientific group website."
+url: "https://your-username.github.io" # Change to your actual URL
+baseurl: "" # Keep this empty if your repo is [username].github.io
