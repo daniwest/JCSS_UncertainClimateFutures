@@ -1,3 +1,8 @@
+---
+layout: single
+author_profile: true
+---
+
 ### Climate change
 How to handle climate change effects in the management of risk and safety of structures and infrastructure? 
 How to sustainably deal with uncertainty in hazards and extremes in the built environment affected by climate change?
