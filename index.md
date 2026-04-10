@@ -1,6 +1,10 @@
 ---
 layout: single
 author_profile: true
+
+header:
+  title: "Managing Structures and Infrastructure for Uncertain Climate Futures"
+  tagline: "Optimal strategies to handle climate uncertainty in civil infrastructure."
 ---
 
 ### Climate change
