@@ -7,21 +7,17 @@ author_profile: true
 
 Our group consists of a steering committee and a broader network of researchers.
 
-### Steering Committee
+### Members
 
 | Name | Affiliation | Links |
 | :--- | :--- | :--- |
-| **Prof. Daniel Straub** | Technical University of Munich | [Profile](https://example.com) \| 
-| **Prof. Marc Chen** | MIT | [Lab Page](https://example.com) \| [Google Scholar](https://scholar.google.com) |
-| **Dr. Sarah Jenkins** | Max Planck Institute | [ResearchGate](https://example.com) |
+| **Prof. Daniel Straub** (Head of the group) | Technical University of Munich | [Profile](https://www.cee.ed.tum.de/era) \| 
+| **Prof. Yaofan Li** (Head of Group Case Studies)| Hong Kong Metropolitan University | 
+| **Dr. Orson Tieleman** (Head of Group Case Studies)| TU Delft | 
+| **Nadieh Meinen** (Head of Group Climate Loads)| University of Southern Denmark |
+| **Prof. Raphael Steenbergen** (Head of Group Climate Loads)| TNO |
+| **Prof. Marco Broccardo** (Head of Group Climate Loads)| University of Trento |
 
-### Researchers & Collaborators
 
-| Name | Affiliation | Key Interests |
-| :--- | :--- | :--- |
-| **Alice Smith** | CERN | Particle Physics, Data Analysis |
-| **Bob Johnson** | Stanford University | Machine Learning, Ethics |
-
----
 
 *Last updated: April 2026*
