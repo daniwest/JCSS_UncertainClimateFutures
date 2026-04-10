@@ -14,7 +14,9 @@ header:
       url: "/loads/"
     - label: "Methods & tools"
       url: "/methods/"
-excerpt: "We are a multidisciplinary team based at [University], focusing on [Topic A], [Topic B], and [Topic C]."
+    - label: "Resources"
+      url: "/resources/"
+excerpt: "The JCSS Working Group on Uncertain Climate Futures prepares the scientific background to enhance policies, standards and rules for infrastructures and structures to address climate uncertainty."
 ---
 
 ### Climate change
