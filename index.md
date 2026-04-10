@@ -16,6 +16,8 @@ header:
       url: "/methods/"
     - label: "Resources"
       url: "/resources/"
+    - label: "Members"
+      url: "/members/"
 excerpt: "The JCSS Working Group on Uncertain Climate Futures prepares the scientific background to enhance policies, standards and rules for infrastructures and structures to address climate uncertainty."
 ---
 
