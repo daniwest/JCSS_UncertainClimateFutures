@@ -1,11 +1,11 @@
 ---
 layout: single
 author_profile: true
-title: "Working Group on Uncertain Climate Futures"
-tagline: "Advancing the frontiers of [Subject] through [Methodology]."
+title: "Managing Structures and Infrastructure for Uncertain Climate Futures"
+tagline: "Optimal strategies to handle climate uncertainty in civil infrastructure."
 header:
-  overlay_image: https://daniwest.github.io//JCSS_UncertainClimateFutures/images/GardenDS.jpg
-  overlay_filter: 0.5 # Makes text readable over an image
+  overlay_image: https://daniwest.github.io//JCSS_UncertainClimateFutures/images/MountainDS.jpg
+  overlay_filter: 0.2 # Makes text readable over an image
   caption: "Photo credit: Daniel Straub"
   actions:
     - label: "Motivation and case studies"
@@ -20,8 +20,10 @@ excerpt: "We are a multidisciplinary team based at [University], focusing on [To
 ### Climate change
 How to handle climate change effects in the management of risk and safety of structures and infrastructure? 
 How to sustainably deal with uncertainty in hazards and extremes in the built environment affected by climate change?
-/JCSS_UncertainClimateFutures/images/MountainDS.jpg
-The Working Group on Uncertain Climate Futures, under the auspieces of the Joint Committee on Structural Safety (JCSS) prepares the scientific background ...
+
+The Working Group on Uncertain Climate Futures prepares the scientific background to enhance policies, standards and rules for infrastructures and structures. 
+
+The working group operates under the auspieces of the Joint Committee on Structural Safety (JCSS).
+
 ### Latest News
-* **April 2026:** Dr. Smith awarded the [Grant Name]!
-* **March 2026:** Our latest paper on [Subject] published in *Nature*.
+* **April 2026:** Kick-off at the JCSS meeting at Aalborg University.
