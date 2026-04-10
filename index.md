@@ -1,10 +1,12 @@
 ---
 layout: single
 author_profile: true
-
 header:
   title: "Managing Structures and Infrastructure for Uncertain Climate Futures"
   tagline: "Optimal strategies to handle climate uncertainty in civil infrastructure."
+  overlay_image: https://daniwest.github.io//JCSS_UncertainClimateFutures/images/MountainDS.jpg
+  overlay_filter: 0.2 # Makes text readable over an image
+  caption: "Photo credit: Daniel Straub"
 ---
 
 ### Climate change
