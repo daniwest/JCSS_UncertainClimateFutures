@@ -1,15 +1,8 @@
 ---
 layout: single
 author_profile: true
-header:
-  title: "Managing Structures and Infrastructure for Uncertain Climate Futures"
-  tagline: "Optimal strategies to handle climate uncertainty in civil infrastructure."
-  overlay_image: https://daniwest.github.io//JCSS_UncertainClimateFutures/images/MountainDS.jpg
-  overlay_filter: 0.2 # Makes text readable over an image
-  caption: "Photo credit: Daniel Straub"
 ---
 
-### Climate change
 How to handle climate change effects in the management of risk and safety of structures and infrastructure? 
 How to sustainably deal with uncertainty in hazards and extremes in the built environment affected by climate change?
 
@@ -17,5 +10,5 @@ The Working Group on Uncertain Climate Futures prepares the scientific backgroun
 
 The working group operates under the auspieces of the Joint Committee on Structural Safety (JCSS).
 
-### Latest News
+## Latest News
 * **April 2026:** Kick-off at the JCSS meeting at Aalborg University.
