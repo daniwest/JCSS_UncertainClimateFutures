@@ -22,6 +22,6 @@ Our group consists of a steering committee and a broader network of researchers.
 
 | Name | Affiliation | Links |
 | :--- | :--- | :--- |
-| **TBA** | TBA | 
+| **TBA** | TBA |  
 
 *Last updated: April 2026*
